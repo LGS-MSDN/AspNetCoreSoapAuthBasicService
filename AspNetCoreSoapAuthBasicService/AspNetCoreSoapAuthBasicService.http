@@ -1,0 +1,6 @@
+@AspNetCoreSoapAuthBasicService_HostAddress = http://localhost:5108
+
+GET {{AspNetCoreSoapAuthBasicService_HostAddress}}/Service/
+Accept: application/json
+
+###
